@@ -9,4 +9,4 @@ npm install
 npm run dev
 
 
-Ce mini-projet utilise la gestion de store avec Pinia, et les taches sont stockées dans le local storage du navigateur
+Ce mini-projet utilise la gestion de store avec Pinia, et les taches sont stockées dans le local storage du navigateur.
